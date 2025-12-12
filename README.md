@@ -16,6 +16,6 @@ All code applications in this course use Python. Follow the [course setup guide]
 9. Text analysis and natural language processing
 10. Web APIs and web scraping
 
-I also provide an [index of potential resources](https://github.com/pbiscaye/Teaching/blob/main/Data%20science%20resources%20index.pdf) for further learning in each of these topics, including in languages other than Python.
-
 If you want to use these materials, please consider the following [citation](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/CITATION.md).
+
+I also maintain an [index of links to potential resources](https://github.com/pbiscaye/Teaching/blob/main/Data%20science%20resources%20index.pdf) for further learning in each of these topics, including in languages other than Python.
