@@ -1,0 +1,46 @@
+name: ucads_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  # Core Data Science
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - xarray
+  - netCDF4
+  - networkx
+  - plotly
+  # Web Scraping & APIs
+  - requests
+  - beautifulsoup4
+  - lxml
+  # Geospatial Stack
+  - pyproj
+  - shapely
+  - geopandas
+  - gdal
+  - pygeos
+  - rasterio
+  - rasterstats
+  - geopy
+  - contextily
+  - mapclassify
+  - esda
+  # Tools & Infrastructure
+  - jupyterlab
+  - nodejs
+  - pandoc
+  - ipykernel
+  # R Integration
+  - r-base
+  - r-stargazer
+  # Pip-specific installs
+  - pip
+  - pip:
+    - pynytimes
+    - vadersentiment

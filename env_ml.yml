@@ -1,0 +1,40 @@
+name: ucads_ml
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  # Core Data & Visualization
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
+  # Machine Learning & AutoML
+  - scikit-learn
+  - tpot
+  - xgboost       
+  - lightgbm      
+  # NLP (Natural Language Processing)
+  - nltk
+  - spacy
+  - gensim
+  - transformers
+  - sentence-transformers
+  # Deep Learning (PyTorch)
+  - pytorch
+  - torchvision
+  - cpuonly         
+  # Computer Vision & Geospatial
+  - scikit-image
+  - shapely
+  - pygeos
+  - geopandas
+  # Infrastructure
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+    - en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
