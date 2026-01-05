@@ -2,7 +2,7 @@
 
 This site hosts materials for my Data Science for Development Economics course at the Université Clermont Auvergne. See the [Syllabus](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Syllabus_Biscaye_DataScience.pdf) for an overview of the course's organization, and below for the course outline. Contact me at <pierre.biscaye@uca.fr> for more information.
 
-All code applications in this course use Python. Follow the [course setup guide](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Data_Science_Class_Setup_Guide.pdf) for instructions on getting set up to work in Python if you are new. If you are a more experienced user, skip to the section indicating what packages are used in the course. You will need to two yml files to set up the python package environments for the course.
+All code applications in this course use Python. Follow the [course setup guide](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Data_Science_Class_Setup_Guide.pdf) for instructions on getting set up to work in Python if you are new. If you are a more experienced user, skip to the section indicating what packages are used in the course. You will need to download the two yml files to set up the python package environments for the course.
 
 **Course outline** 
 1. Introduction to Data Science and Python/Jupyter Setup
