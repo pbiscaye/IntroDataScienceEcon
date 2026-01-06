@@ -5,7 +5,7 @@ This site hosts materials for my Data Science for Development Economics course a
 All code applications in this course use Python. Follow the [course setup guide](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Data_Science_Class_Setup_Guide.pdf) for instructions on getting set up to work in Python if you are new. If you are a more experienced user, skip to the section indicating what packages are used in the course. You will need to download the two yml files to set up the python package environments for the course.
 
 **Course outline** 
-1. Introduction to Data Science and Python/Jupyter Setup
+1. Introduction to data science and Python/Jupyter setup and basics
 2. Research reproducibility and tabular data wrangling
 3. Generative AI; data explorationa and visualization
 4. Accessing and working with different data sources
