@@ -31,6 +31,8 @@ dependencies:
   - contextily
   - mapclassify
   - esda
+  - earthengine-api
+  - geemap
   # Tools & Infrastructure
   - jupyterlab
   - nodejs
