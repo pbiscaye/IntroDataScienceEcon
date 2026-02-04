@@ -1,7 +1,6 @@
 name: ucads_env
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.11
   # Core Data Science
@@ -19,12 +18,11 @@ dependencies:
   - requests
   - beautifulsoup4
   - lxml
-  # Geospatial Stack
+  # Geospatial Stack (Proprietary/Conflict-prone bits removed)
   - pyproj
-  - shapely
+  - shapely >=2.0
   - geopandas
   - gdal
-  - pygeos
   - rasterio
   - rasterstats
   - geopy
@@ -38,8 +36,7 @@ dependencies:
   - nodejs
   - pandoc
   - ipykernel
-  # R Integration
-  - r-base
+  # R Integration (Moved to forge to ensure architectural compatibility)
   - r-stargazer
   # Pip-specific installs
   - pip
