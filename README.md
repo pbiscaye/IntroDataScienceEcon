@@ -6,9 +6,9 @@ All code applications in this course use Python. Follow the [course setup guide]
 
 **Course outline** 
 1. Introduction to data science and Python/Jupyter setup and basics
-2. Research reproducibility and tabular data wrangling
-3. Generative AI; data explorationa and visualization
-4. Accessing and working with different data sources
+2. Research reproducibility and Python tabular data wrangling
+3. Generative AI; Python data exploration and visualization
+4. Accessing and working with different data sources: web APIs, web scraping, and Google Earth Engine
 5. Intro to spatial data and remote sensing
 6. Intro to machine learning (focus on supervised)
 7. Intro to text analysis and natural language processing
