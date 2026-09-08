@@ -1,6 +1,6 @@
 # Introduction to Data Science for Economists
 
-This page provides access to teaching materials for my **Introduction to Data Science for Development Economics** course at the Université Clermont Auvergne.
+This page provides access to teaching materials for my **Introduction to Data Science for Economists** course at the Université Clermont Auvergne.
 
 The course introduces tools and approaches from data science that are useful for applied economic research, with applications in Python.
 
